@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+  background-color: #0b0c0e;
+  font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+
+* {
+  @apply antialiased;
+}
+
+body {
+  @apply min-h-screen bg-terminal-bg text-slate-100;
+}
+
+a {
+  @apply text-terminal-accent transition-colors duration-150 hover:text-green-300;
+}
+
+::selection {
+  @apply bg-terminal-accent/30 text-white;
+}
+
+.terminal-scroll::-webkit-scrollbar {
+  width: 10px;
+}
+
+.terminal-scroll::-webkit-scrollbar-track {
+  @apply bg-transparent;
+}
+
+.terminal-scroll::-webkit-scrollbar-thumb {
+  @apply rounded-full bg-slate-700/70;
+}
+

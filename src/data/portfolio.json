@@ -1,0 +1,96 @@
+{
+  "identity": {
+    "name": "Yassine Chaanoune",
+    "title": "Full Stack Web Developer",
+    "location": "Casablanca, Morocco",
+    "challenge": "If a task can be automated, why do it manually? I specialize in building full-stack and automation-driven web solutions that simplify workflows, extract value from data, and boost productivity through intelligent, tailor-made tools."
+  },
+  "skills": {
+    "frontend": ["HTML", "CSS", "JavaScript", "TypeScript", "React.js", "Tailwind CSS", "Bootstrap"],
+    "backend": ["Node.js", "Express.js", "Laravel", "PHP"],
+    "databases": ["MySQL", "MongoDB"],
+    "tools": ["Git", "GitHub", "Docker", "Postman", "Jira", "SonarQube"],
+    "softSkills": ["Problem Solving", "Communication", "Adaptability", "Technical Curiosity"]
+  },
+  "experience": [
+    {
+      "company": "Ark-x Talent Solutions",
+      "role": "Full Stack Web Developer",
+      "type": "Freelance",
+      "period": "09/2024 – Present",
+      "stack": ["MongoDB", "Express", "React", "Node.js"],
+      "tasks": [
+        "Design and development of full-stack web applications",
+        "RESTful APIs and database design",
+        "AI integrations and automation features"
+      ]
+    },
+    {
+      "company": "AM Performance",
+      "role": "Full Stack Web Developer",
+      "period": "03/2025 – 04/2025",
+      "stack": ["HTML", "Bootstrap", "JavaScript", "Laravel", "MySQL"],
+      "tasks": [
+        "Responsive website development",
+        "Performance optimization",
+        "Student orientation platform with user management"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Hotel Reservation Management System",
+      "description": "Complete management of rooms, reservations, and clients.",
+      "stack": ["HTML", "CSS", "JavaScript", "Laravel"]
+    },
+    {
+      "name": "Product Management Application",
+      "description": "CRUD system with filtering and intuitive UI.",
+      "stack": ["React", "Express", "Tailwind CSS"]
+    },
+    {
+      "name": "Task Management System with AI",
+      "description": "Task organization and AI-powered task generation.",
+      "stack": ["React", "Express", "MongoDB", "Tailwind CSS"]
+    },
+    {
+      "name": "Sales Management System",
+      "description": "Sales tracking and management dashboard.",
+      "stack": ["React", "Node.js", "MongoDB"]
+    },
+    {
+      "name": "Fitness Management Platform",
+      "description": "System connecting athletes, coaches, and gyms with payment integration.",
+      "stack": ["MERN Stack"]
+    }
+  ],
+  "education": [
+    {
+      "period": "2023 – 2025",
+      "institution": "OFPPT – ISGI",
+      "degree": "Specialized Technician in Full Stack Web Development"
+    },
+    {
+      "period": "2020 – 2023",
+      "institution": "Lycée Mohamed IV",
+      "degree": "Baccalaureate in Physical Sciences (Physics & Chemistry)"
+    }
+  ],
+  "languages": [
+    { "name": "French", "level": "Professional" },
+    { "name": "English", "level": "Professional" },
+    { "name": "Italian", "level": "Beginner" }
+  ],
+  "contact": {
+    "email": "yassinechaanoune039@gmail.com",
+    "phone": "+212720167843",
+    "github": "https://github.com/YASSINE92-coder",
+    "linkedin": "https://www.linkedin.com/in/yassine-chaanoune",
+    "whatsapp": "https://wa.me/212720167843"
+  },
+  "fun": {
+    "interests": ["Automation", "Travel", "Volunteering", "Event  Organization", "Meditation", "Boxing", "Chess"],
+    "username": "YASSINE92-coder"
+  }
+}
+
