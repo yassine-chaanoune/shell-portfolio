@@ -3,10 +3,7 @@ import type { CommandHandler } from './index'
 
 export const projectsCommand: CommandHandler = () => ({
   output: portfolio.projects.map(
-    (project) =>
-      `${project.name}: ${project.description} [${project.stack.join(', ')}]${
-        project.url ? ` ${project.url}` : ''
-      }`,
+    (project) => `${project.name}: ${project.description} [${project.stack.join(', ')}]`,
   ),
   type: 'info',
 })
